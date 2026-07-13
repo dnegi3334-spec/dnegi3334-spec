@@ -21,7 +21,7 @@
 
 ### 🎯 About Me
 
-- 🎓 Computer Science graduate, self-taught in Data Analytics
+- 🎓 BBA graduate, self-taught in Data Analytics
 - 📊 Actively job-hunting for **Data Analyst / Business Analyst** roles
 - 🛠️ Comfortable across the full analytics stack: **SQL → Python → Power BI**
 - 📈 Currently building a **Customer & Loan Analysis Dashboard** (Power BI, star schema, DAX)
