@@ -79,12 +79,10 @@
 
 ---
 
-### 📄 Resume & Contact
+📄 Resume & Contact
 
 <p align="center">
   <a href="https://github.com/dnegi3334-spec/dnegi3334-spec/blob/main/resume.pdf"><img src="https://img.shields.io/badge/📄%20Resume-Download-2E86C1?style=for-the-badge"></a>
   <a href="mailto:dnegi3334@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-Let's%20Talk-2E86C1?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/devyansh-negi-706338323/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge"></a>
 </p>
-
-<p align="center"><i>Open to Data Analyst / Business Analyst opportunities — let's connect!</i></p>
