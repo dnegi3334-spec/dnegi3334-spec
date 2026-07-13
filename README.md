@@ -37,7 +37,7 @@
 | 🗄️ **25+ SQL queries** shipped | CTEs, window functions, RANK/LAG on a full e-commerce schema |
 | 📊 **Star-schema BI dashboards** | Power BI + DAX, from raw data to multi-page executive reports |
 | 🐍 **Python data pipelines** | pandas-based cleaning, feature engineering, EDA end-to-end |
-| ✅ **Consistent problem-solving practice** | Ongoing SQL/DSA practice on LeetCode & HackerRank — *add your solved count here* |
+| ✅ **Consistent problem-solving practice** | Ongoing SQL/DSA practice on LeetCode & HackerRank 
 
 ---
 
