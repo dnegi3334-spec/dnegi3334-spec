@@ -25,7 +25,7 @@
 - 📊 Actively job-hunting for **Data Analyst / Business Analyst** roles
 - 🛠️ Comfortable across the full analytics stack: **SQL → Python → Power BI**
 - 📈 Currently building a **Customer & Loan Analysis Dashboard** (Power BI, star schema, DAX)
-- 🌱 Sharpening SQL daily on LeetCode & HackerRank
+- 🌱 Sharpening SQL and Python daily on LeetCode & HackerRank
 - 💬 Ask me about pandas data cleaning, DAX measures, or window functions in SQL
 
 ---
