@@ -21,7 +21,7 @@
 
 ### 🎯 About Me
 
-- 🎓 BBA graduate, self-taught in Data Analytics
+- 🎓 Computer Science graduate, self-taught in Data Analytics
 - 📊 Actively job-hunting for **Data Analyst / Business Analyst** roles
 - 🛠️ Comfortable across the full analytics stack: **SQL → Python → Power BI**
 - 📈 Currently building a **Customer & Loan Analysis Dashboard** (Power BI, star schema, DAX)
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
 ---
@@ -79,26 +79,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dnegi3334-spec&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnegi3334-spec&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnegi3334-spec&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnegi3334-spec&theme=minimal&hide_border=true" alt="activity graph"/>
-</p>
-
----
-
 ### 📄 Resume & Contact
 
 <p align="center">
+  <a href="https://github.com/dnegi3334-spec/dnegi3334-spec/blob/main/resume.pdf"><img src="https://img.shields.io/badge/📄%20Resume-Download-2E86C1?style=for-the-badge"></a>
   <a href="mailto:dnegi3334@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-Let's%20Talk-2E86C1?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/devyansh-negi-706338323/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge"></a>
 </p>
